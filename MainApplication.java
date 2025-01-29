@@ -1,4 +1,4 @@
-public class Application {
+public class MainApplication {
     public static void main(String[] args) {
         AccountService account = new Account();
         account.deposit(1000);
